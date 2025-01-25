@@ -15,7 +15,7 @@ This data was gotten from Kaggle
 The project was carried out using Advanced Excel as an analyzing tool, using various formulas to carry out necessary actions. Formulas such as;
 
 ## Dashboard
-(Bike Store)(https://github.com/user-attachments/assets/e0d3279c-d7a6-420a-8546-ea09005e3a82)
+-[Download here)(https://github.com/user-attachments/assets/e0d3279c-d7a6-420a-8546-ea09005e3a82)
 
 - An active Dashboard was used to visualize the data for better interpretation.
 #Insights
