@@ -13,9 +13,15 @@ This data was gotten from Kaggle
 - Blank Cells: Identified blank cells were removed from the respective rows.
 ## Tools
 The project was carried out using Advanced Excel as an analyzing tool, using various formulas to carry out necessary actions. Formulas such as;
+- =SUMIFS(Sales!R:R,Sales!C:C,Month!A3,Sales!J:J,"bikes",Sales!D:D,"2012")
+- =SUM(H3:H8)
+- =unique(h:h)
+- =trim(proper(i:i))
+## Excel Workbook
+-[Bike Workbook
 
 ## Dashboard
--[Bike Store)(https://github.com/user-attachments/assets/e0d3279c-d7a6-420a-8546-ea09005e3a82)
+-[Bike Store](https://github.com/user-attachments/assets/e0d3279c-d7a6-420a-8546-ea09005e3a82)
 
 - An active Dashboard was used to visualize the data for better interpretation.
  ## Insights
