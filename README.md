@@ -18,7 +18,7 @@ The project was carried out using Advanced Excel as an analyzing tool, using var
 - =unique(h:h)
 - =trim(proper(i:i))
 ## Excel Workbook
--[Bike Workbook]![Excel workbook](https://github.com/user-attachments/assets/6138d438-9a31-41ba-8c61-f0ad2a43dff6))
+-[Bike Workbook](https://github.com/user-attachments/assets/6138d438-9a31-41ba-8c61-f0ad2a43dff6)
 -[Pivot Worksheet](https://github.com/user-attachments/assets/badadfd8-97c8-42f9-804c-ebe4dc33a7d8)
 
 ## Dashboard
