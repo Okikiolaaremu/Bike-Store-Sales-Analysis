@@ -18,7 +18,7 @@ The project was carried out using Advanced Excel as an analyzing tool, using var
 -[Bike Store)(https://github.com/user-attachments/assets/e0d3279c-d7a6-420a-8546-ea09005e3a82)
 
 - An active Dashboard was used to visualize the data for better interpretation.
-#Insights
+ ## Insights
 - There was an accumulated profit of $ 41,908,055 between year 2011-2016 where the highest profit was made in the year 2015 with an amount of $ 9,870,012. In contrast, the lowest profit was made in the year 2011 with an amount of $ 3,976,543.
 - Accssories had the highest product category ordered with a total quantity of 1,333,705 
 - The Top ordered product was Water Bottle - 30 oz. which equates to 162,051 
